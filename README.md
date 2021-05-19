@@ -6,3 +6,5 @@ I also use SQL a lot to access all those tasty data frames from SQL Server.
 
 * I'm interested in learning more about machine learning implementation in the healthcare system
 * I'm currently looking for a new job overseas, more specifically in the Netherlands where I'm moving in July.
+
+Since I'm from a french town, you might find projects with french writing.
